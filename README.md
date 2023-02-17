@@ -4,10 +4,15 @@
 
 1.FFMPEG >5 
 Instalation : 
+
 sudo add-apt-repository ppa:savoury1/ffmpeg4
+
 sudo add-apt-repository ppa:savoury1/ffmpeg5
+
 sudo apt update
+
 apt install ffmpeg
+
 Tested on ubuntu 18 and 20
 
 2.Python3
